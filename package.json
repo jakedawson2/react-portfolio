@@ -31,7 +31,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jakedawson2/personalportfolio.git"
+    "url": "git+https://github.com/jakedawson2/react-portfolio.git"
   },
   "keywords": [
     "Portfoldio"
@@ -39,7 +39,7 @@
   "author": "Jake Dawson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jakedawson2/personalportfolio/issues"
+    "url": "https://github.com/jakedawson2/react-portfolio/issues"
   },
-  "homepage": "https://github.com/jakedawson2/personalportfolio#readme"
+  "homepage": "https://github.com/jakedawson2/react-portfolio#readme"
 }
